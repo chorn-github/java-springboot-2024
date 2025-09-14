@@ -1,10 +1,10 @@
-package th.in.chorn.springboot3.java21;
+package chorn.springboot3.java21;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AppTests {
+class SpringbootAppTests {
 
 	@Test
 	void contextLoads() {
